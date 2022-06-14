@@ -1,0 +1,12 @@
+.p-dashboard {
+    margin-top: 20px;
+
+    &__header {
+        display: flex;
+        flex-wrap: nowrap;
+
+        button {
+            margin-right: 10px;
+        }
+    }
+}
